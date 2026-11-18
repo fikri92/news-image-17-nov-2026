@@ -7,10 +7,10 @@
 One image that sums up the world's news of Tuesday 17 November 2026, entered in make.fun's
 *Sum up 17 November's world news in one image* (`news-image-20261117`).
 
-The page is a single broadsheet front page: the Kerch Bridge strike leads, Iran's third drone
-attack on Bahrain and Trump's arrival in Manila sit beside it, the day's numbers and the market
-session carry the middle, and six briefs close the page — measles elimination lost, Ebola in DR
- Congo, COP31 in Antalya, a Rwandan return hub, Ukraine's civilian toll, Tiger Woods' return.
+The image is a poster: a drawn night scene of the Kerch Bridge under drone attack — the day's lead story —
+with the three next stories (Iran's strike on Bahrain, Trump in Manila, the market slide) and the day's
+briefs set beneath it. Everything is drawn by `poster.py` with Pillow; no photograph is used, and the
+picture is an illustration of the reported events, not a photo of them.
 
 Every figure and every line comes from reporting filed on the day (AP, NPR, IPS, Global Issues):
 
